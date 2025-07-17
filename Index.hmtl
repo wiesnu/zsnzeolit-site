@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>ZSN Zeolit - Pembenah Tanah Sehat</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      background: #f2f2f2;
+      color: #333;
+    }
+    header {
+      background: #007a3d;
+      color: white;
+      padding: 20px;
+      text-align: center;
+    }
+    main {
+      padding: 30px;
+      max-width: 800px;
+      margin: auto;
+      background: white;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      margin-top: 0;
+    }
+    footer {
+      text-align: center;
+      font-size: 14px;
+      color: #777;
+      padding: 20px;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 10px 20px;
+      background: #007a3d;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    .btn:hover {
+      background: #005e2d;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>ZSN Zeolit</h1>
+    <p>Pembenah Tanah Sehat untuk Masa Depan Pertanian</p>
+  </header>
+
+  <main>
+    <h2>Apa Itu ZSN-09?</h2>
+    <p><strong>ZSN-09</strong> adalah pembenah tanah berbahan dasar <em>zeolit, asam humat</em>, dan <em>asam fulvat</em>. Produk ini dirancang untuk menyembuhkan tanah rusak, menyeimbangkan pH, dan memperbaiki struktur tanah secara alami.</p>
+
+    <h2>Manfaat Utama:</h2>
+    <ul>
+      <li>Memperbaiki kualitas dan struktur tanah</li>
+      <li>Meningkatkan penyerapan nutrisi oleh akar tanaman</li>
+      <li>Mengurangi ketergantungan pada pupuk kimia</li>
+      <li>Ramah lingkungan dan hemat biaya</li>
+    </ul>
+
+    <a href="#" class="btn">Pelajari Lebih Lanjut</a>
+  </main>
+
+  <footer>
+    &copy; 2025 ZSN Zeolit | zsnzeolit.my.id
+  </footer>
+
+</body>
+</html>
