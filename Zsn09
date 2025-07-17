@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>ZSN-09: Pembenah Tanah Cerdas</title>
+  <style>
+    body {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #f4f7f6;
+      color: #333;
+      line-height: 1.7;
+    }
+    header {
+      background-color: #2e7d32;
+      color: white;
+      padding: 1.5rem;
+      text-align: center;
+    }
+    main {
+      max-width: 900px;
+      margin: auto;
+      padding: 2rem;
+    }
+    h1, h2 {
+      color: #2e7d32;
+    }
+    section {
+      margin-bottom: 2rem;
+    }
+    .highlight {
+      background-color: #e8f5e9;
+      border-left: 4px solid #43a047;
+      padding: 1rem;
+      margin: 1rem 0;
+    }
+    footer {
+      background-color: #e0e0e0;
+      text-align: center;
+      padding: 1rem;
+      font-size: 0.9rem;
+      color: #666;
+    }
+    @media (max-width: 600px) {
+      body {
+        padding: 0 1rem;
+      }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>ZSN-09: Pembenah Tanah Cerdas</h1>
+  <p>Menyembuhkan tanah, menyelamatkan generasi</p>
+</header>
+
+<main>
+  <section>
+    <h2>Apa itu ZSN-09?</h2>
+    <p><strong>ZSN-09</strong> adalah pembenah tanah generasi baru yang dirancang khusus untuk memulihkan kesehatan tanah secara alami dan berkelanjutan. Produk ini merupakan perpaduan cerdas dari <em>zeolit alam aktif</em>, <em>asam humat</em>, dan <em>asam fulvat</em>—tiga unsur kunci yang bekerja sinergis memperbaiki struktur, kesuburan, dan daya simpan nutrisi tanah.</p>
+  </section>
+
+  <section>
+    <h2>Mengapa Tanah Perlu Dibina Ulang?</h2>
+    <p>Tanah kita selama puluhan tahun telah mengalami degradasi akibat penggunaan pupuk kimia berlebihan dan teknik pertanian yang tidak ramah lingkungan. Hal ini menyebabkan tanah menjadi keras, asam, kehilangan mikroba baik, serta boros air dan nutrisi. Inilah saatnya beralih ke solusi cerdas: pembenahan tanah dengan pendekatan biologis dan mineral alami.</p>
+  </section>
+
+  <section class="highlight">
+    <h2>Manfaat Utama ZSN-09</h2>
+    <ul>
+      <li>Memperbaiki struktur dan porositas tanah</li>
+      <li>Meningkatkan kemampuan tanah menyimpan air dan nutrisi</li>
+      <li>Menetralkan pH tanah yang terlalu asam</li>
+      <li>Mendukung pertumbuhan mikroba baik dalam tanah</li>
+      <li>Mengurangi ketergantungan pada pupuk kimia</li>
+      <li>Ramah lingkungan dan 100% alami</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Cara Aplikasi</h2>
+    <p>ZSN-09 digunakan dengan cara ditebar merata di atas tanah sebelum tanam. Dosis dan frekuensi bisa disesuaikan dengan kondisi lahan dan jenis tanaman. Umumnya digunakan 500–1000 kg per hektar untuk tahap awal rehabilitasi lahan.</p>
+  </section>
+
+  <section>
+    <h2>Siapa yang Cocok Menggunakan ZSN-09?</h2>
+    <p>Petani padi, hortikultura, perkebunan, bahkan pekarangan rumah bisa mendapatkan manfaat luar biasa dari ZSN-09. Terutama mereka yang ingin meningkatkan hasil panen sambil menjaga keberlanjutan tanah untuk generasi berikutnya.</p>
+  </section>
+
+  <section>
+    <h2>ZSN-09 dan Gerakan Tanah Sehat</h2>
+    <p>ZSN-09 bukan sekadar produk, tetapi bagian dari gerakan nasional untuk menyembuhkan tanah Indonesia. Kami percaya bahwa tanah subur adalah pondasi kedaulatan pangan, dan setiap butir ZSN-09 adalah investasi untuk masa depan yang lebih hijau.</p>
+  </section>
+</main>
+
+<footer>
+  &copy; 2025 ZSN ZEOLIT. Semua Hak Dilindungi. | zsnzeolit.my.id
+</footer>
+
+</body>
+</html>
